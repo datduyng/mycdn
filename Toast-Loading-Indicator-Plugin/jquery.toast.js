@@ -1,5 +1,5 @@
 
-+function($, window, document, undefined){
+function($, window, document, undefined){
   var container = '<div class="toast-wrap"></div>';
   var context = '<div class="toast-content"></div>';
   var wrapSelector = ".toast-wrap";
